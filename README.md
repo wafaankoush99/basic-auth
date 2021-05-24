@@ -1,5 +1,7 @@
 # basic-auth
 
+## [Deployed App](https://basic-auth-wafa.herokuapp.com/)
+
 Authentication System Phase 1: Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
 
 ✓  Make a POST request to the /signin route
@@ -80,5 +82,6 @@ Authentication System Phase 1: Deploy an Express server that implements Basic Au
 
 ![auth](https://user-images.githubusercontent.com/78326110/119287469-3bfff300-bc4f-11eb-9c20-d0c0fa7bff7f.png)
 
+[PULL REQUEST (1) ](https://github.com/wafaankoush99/basic-auth/pull/1)
 
 
