@@ -78,6 +78,7 @@ Authentication System Phase 1: Deploy an Express server that implements Basic Au
 
 - @code-fellows/supergoose
 
+![auth](https://user-images.githubusercontent.com/78326110/119287469-3bfff300-bc4f-11eb-9c20-d0c0fa7bff7f.png)
 
 
 
